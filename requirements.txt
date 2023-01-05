@@ -1,0 +1,11 @@
+numpy
+scikit-learn
+streamlit
+matplotlib
+streamlit-aggrid
+beautifulsoup4
+requests
+pandas
+xlrd
+mlflow[extras]
+cookiecutter
