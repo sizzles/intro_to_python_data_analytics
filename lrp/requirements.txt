@@ -1,0 +1,13 @@
+dask[dataframe]
+pandas
+numpy
+pyarrow
+geopandas
+plotly
+scikit-learn
+matplotlib
+statsmodels
+pmdarima
+tqdm
+seaborn
+nbconvert
